@@ -11,6 +11,7 @@
     "part-6": "playwright test api-routes.spec.js"
   },
   "dependencies": {
+    "build": "^0.1.4",
     "date-fns": "^2.30.0",
     "gray-matter": "^4.0.3",
     "next": "latest",
